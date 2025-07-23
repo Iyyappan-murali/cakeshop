@@ -2,7 +2,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 // 🖼️ Image Imports
 import cakeshop from "./assets/images/cakeshop1.jpg";
-import homeCake from "./assets/images/Homecake.webp";
+import homeCake from "./assets/images/homecake.webp";
 import designerCake from "./assets/images/Designercake.webp";
 import cookiesCake from "./assets/images/Cookiescake.webp";
 import hampersCake from "./assets/images/Hamperscake.webp";
