@@ -5,7 +5,7 @@ import cakeshop from "./assets/images/cakeshop1.jpg";
 import homeCake from "./assets/images/homecake.webp";
 import designerCake from "./assets/images/designercake.webp";
 import cookiesCake from "./assets/images/cookiescake.webp";
-import hampersCake from '../assets/images/hamperscake.webp'; // if assets is outside `src`
+import hampersCake from "./assets/images/hamperscake.webp";
 import gourmetCake from "./assets/images/gourmet.webp";
 import dessertCake from "./assets/images/homecake.webp";
 import richChocolateTruffleCake from "./assets/images/rich chocolate truffle cake.webp";
